@@ -22,7 +22,7 @@ This Project is a Location based task Remainder.
 1 ) Clone project with git
 
 ```bash
-git clone https://github.com/mankotia412vishal/Notifyomatic
+git clone https://github.com/chaitanyakulkarni2k2/Notifyomatic
 ```
 2 ) Required Android studio
 
@@ -55,7 +55,4 @@ git clone https://github.com/mankotia412vishal/Notifyomatic
  
 
 
-## Support
-
-For support, email mankotia412vishal@gmail.com.
 
